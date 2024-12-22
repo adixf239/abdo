@@ -1,0 +1,18 @@
+body{
+    
+    font-family:arial,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #b61b1b;
+    padding: 20px;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
